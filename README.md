@@ -12,5 +12,6 @@ It can be run from CLI by `main.py "string" "string" "False"`
 * qrcode[PIL]
 
 example output:
+
 ![Sample Pic](https://github.com/gnl221/QR_Creator/blob/main/sticker.png)
 
