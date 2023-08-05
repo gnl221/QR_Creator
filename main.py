@@ -47,7 +47,7 @@ class QRCodeApp:
         self.image_label = tk.Label(window)
         self.image_label.grid(row=6, column=0)
 
-        self.text_label = tk.Label(window, font=("Arial", 4), bg="white")
+        self.text_label = tk.Label(window, font=("Arial", 2), bg="white")
         self.text_label.grid(row=7, column=0)
         self.text_label.grid_forget()
 
